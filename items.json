@@ -1,0 +1,7 @@
+[
+  {"id":"water_bottle","label":"Water Bottle","category":"drink","stack_max":3,"weight":0.7,"effect_system":"thirst","effect_amount":35,"secondary_system":"hunger","secondary_amount":0},
+  {"id":"canned_food","label":"Canned Food","category":"food","stack_max":4,"weight":0.5,"effect_system":"hunger","effect_amount":28,"secondary_system":"thirst","secondary_amount":2},
+  {"id":"field_dressing","label":"Field Dressing","category":"medical","stack_max":5,"weight":0.2,"effect_system":"health","effect_amount":18,"secondary_system":"infection","secondary_amount":0},
+  {"id":"antiseptic","label":"Antiseptic","category":"medical","stack_max":2,"weight":0.3,"effect_system":"infection","effect_amount":-12,"secondary_system":"health","secondary_amount":0},
+  {"id":"rifle_ammo","label":"Rifle Ammunition","category":"ammo","stack_max":6,"weight":0.4,"effect_system":"health","effect_amount":0,"secondary_system":"hunger","secondary_amount":0}
+]
